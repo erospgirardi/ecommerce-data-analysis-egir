@@ -1,0 +1,12 @@
+# Ignore SQL database
+*.db
+
+# Ignore temporary excel files
+*.xlsx
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+
+# Ignore notebooks checkpoints
+*.ipynb_checkpoints
