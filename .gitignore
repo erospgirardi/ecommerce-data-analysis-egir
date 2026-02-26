@@ -10,3 +10,9 @@ __pycache__/
 
 # Ignore notebooks checkpoints
 *.ipynb_checkpoints
+
+# Ignore my virtual environments
+venv/
+
+# Ignore my tests
+test_sql.py
